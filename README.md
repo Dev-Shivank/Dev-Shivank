@@ -32,47 +32,36 @@
 
 ---
 
-### ⭐ Featured Projects
-- **E-Shop (MERN)** — Fullstack e-commerce with JWT auth, product CRUD, cart, Stripe payments, admin panel.  
-  Repo: `https://github.com/YOUR_GITHUB_USERNAME/eshop-mern` • Demo: `https://your-eshop-demo.com`
+### ⭐ Portfolio
 
-- **Taskify (React + Node)** — Kanban-style task manager with drag & drop and real-time updates (Socket.io).  
-  Repo: `https://github.com/YOUR_GITHUB_USERNAME/taskify`
-
-- **Portfolio (Next + Tailwind)** — Personal portfolio + blog, CV download, contact form, SEO ready.  
-  Repo: `https://github.com/YOUR_GITHUB_USERNAME/portfolio` • Live: `https://your-name.vercel.app`
+  Portfolio: `https://shivank-portfolio-delta.vercel.app/`
 
 ---
 
-### 🎮 Fun Coding Game
-Here’s a fun typing game just for devs 🚀  
+### 📄 Experience & Education  
 
-![Typing Game](https://raw.githubusercontent.com/DevShivankGames/assets/main/typing-game.gif)  
-*(Type code fast to win — just like in real life!)*
+**Full Stack Web Developer — Ryt Cliq Pro**  
+*Lucknow, UP, India | 06/2025 – 09/2025*  
+- Developed a B2B e-commerce website using **React.js**, focusing on seamless and visually appealing UI.  
+- Built a marketing company website with **React.js (frontend)** + **Node.js (backend)** ensuring scalability.  
+- Created a real estate website with **property showcase, cards, image gallery, Tailwind CSS & media queries**, including an efficient content management system.  
 
----
-
-### 📄 Experience & Education
-- **B.Tech (2024)** — Degree in Engineering  
-- 9 months of MERN stack experience (projects + freelance).  
-- Open to **entry-level MERN opportunities**.
-
+**Full Stack Developer — Solutioneers Infotech**  
+*Lucknow, UP, India | 10/2024 – 04/2025*  
+- Built frontend & backend architecture for a **Barber App** (ReactJS + Node.js) ensuring scalability.  
+- Designed APIs for registration, OTP & email login, and third-party integrations.  
+- Developed backend for **Tourus-AI App** (Node.js + Express) with booking management, payments, and search filters.  
+- Implemented **real-time chat** using Socket.io for enhanced customer engagement.  
+- Delivered responsive UI with **React, HTML5, CSS3**, collaborating closely with backend & design teams.  
+- Applied best practices in **state management** and **reusable component development**.  
 ---
 
 ### 📫 Contact
-- Portfolio: `https://YOUR_PORTFOLIO_URL`  
-- LinkedIn: `https://linkedin.com/in/YOUR_LINKEDIN`  
-- Email: `your.email@example.com`
+- Portfolio: `https://shivank-portfolio-delta.vercel.app/`  
+- LinkedIn: `https://www.linkedin.com/in/sv517/`  
+- Email: `shivankverma9838@gmail.com`
 
 ---
 
-### ✅ Quick checklist (what employers look at)
-- [x] Clean profile photo & professional bio  
-- [x] 3–5 pinned, production-ready projects  
-- [x] Project READMEs with screenshots + run instructions  
-- [x] GitHub activity for last 3 months (small PRs & commits)  
-- [x] Contact links (LinkedIn + portfolio + email)
-
----
 
 Thanks for checking out my profile — if you want to see a project demo or my CV, get in touch! 🚀
