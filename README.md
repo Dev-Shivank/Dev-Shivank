@@ -1,5 +1,5 @@
 # Hi, I'm Shivank Verma 👋
-**MERN Stack Developer** • B.Tech (2024) • Seeking MERN internship / entry-level role
+**MERN Stack Developer** • B.Tech (2024) • 9 Months Experience • Open to New Opportunities
 
 > I build clean, maintainable full-stack apps using **React, Node.js, Express & MongoDB**.  
 > Currently learning Next.js, TypeScript and improving deployment/DevOps skills.
@@ -27,8 +27,8 @@
 ---
 
 ### 🔥 GitHub Stats
-![Shivank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Shivank&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Shivank&layout=compact&theme=tokyonight)
+![Shivank's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev-Shivank&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-Shivank&layout=compact&theme=tokyonight)
 
 ---
 
@@ -42,14 +42,20 @@
 - **Portfolio (Next + Tailwind)** — Personal portfolio + blog, CV download, contact form, SEO ready.  
   Repo: `https://github.com/YOUR_GITHUB_USERNAME/portfolio` • Live: `https://your-name.vercel.app`
 
-(Replace above links with your actual project links and one line about tech used.)
+---
+
+### 🎮 Fun Coding Game
+Here’s a fun typing game just for devs 🚀  
+
+![Typing Game](https://raw.githubusercontent.com/DevShivankGames/assets/main/typing-game.gif)  
+*(Type code fast to win — just like in real life!)*
 
 ---
 
 ### 📄 Experience & Education
 - **B.Tech (2024)** — Degree in Engineering  
-- Completed MERN projects: e-commerce app, task manager, portfolio.  
-- Open to internships & entry-level MERN roles.
+- 9 months of MERN stack experience (projects + freelance).  
+- Open to **entry-level MERN opportunities**.
 
 ---
 
