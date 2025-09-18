@@ -27,8 +27,8 @@
 ---
 
 ### 🔥 GitHub Stats
-![Shivank's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dev-Shivank&show_icons=true&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-Shivank&layout=compact&theme=tokyonight)
+![Shivank's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Dev-Shivank&show_icons=true&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Dev-Shivank&layout=compact&theme=tokyonight)
 
 ---
 
